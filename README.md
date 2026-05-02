@@ -1,6 +1,7 @@
 # Download Doc From Coretax
 
-Python automation script for downloading Bukti Potong PPh documents from Coretax using Selenium.
+Python automation script for downloading documents from Coretax using Selenium.
+You can change the filter with whatever you need to download.
 
 ## Features
 
