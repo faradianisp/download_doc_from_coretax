@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+downloads_coretax/
+chromedriver-win64/
+.env
+.vscode/
